@@ -1,0 +1,87 @@
+Us001
+As an Admin User, I am able create  Users/Staff with User/name, email details, phone number
+
+
+
+Acceptance Criteria
+1) On succesful Creation of the User, user should get a new email with a system generated password.
+2) Newly Created User should be able to login with information provide in the email recieved
+3) View the newly created User 
+4) If User has been  assigned to polling unit (see   Us003)), I should be able to View Information of Polling Unit Assigned to the User.
+
+
+Us002
+
+As an Admin User, I am able to  Create Polling Unit
+
+Acceptance Criteria
+1) View the newly created Polling Unit 
+2) Edit the newly created polling unit
+3) View Assigned Users to the polling Unit if Users has been assigned see Us003
+
+
+Us003
+
+As an Admin User, I am able to  Assign Users to Polling Unit
+
+Acceptance Criteria
+1) View the newly Assigned Users to  Polling Unit 
+2)View a List of Previously Assigned USers
+3) Delete from alreeady assigned users
+
+
+Us004
+As an Admin User, I am able to  Create Political Parties
+
+Acceptance Criteria
+1) View the newly created Political Party
+2) VIew a list of existing political parties
+3) Edit Political PArties
+4) View a List of Candidates  and 
+
+
+Us005
+As an Admin User, I am able to Create Candidates by  selecting Political Partty he/ she belongs to.
+
+Acceptance Criteria
+1) View the newly created Candidate
+2) VIew a list of existing Candidates
+3) Edit Candidate
+4) View the Political PArty he belongs to
+
+
+Us006
+
+As an Admin User, I am able to create  Elections by selecting type of election from a list of 
+(Presidential, Gubernatorial,Senatorial,Federal Representative,State Representative),
+Year.
+
+Acceptance Criteria
+1) View  newly created election
+2) Edit and Delete Election created
+3) Configure newly Created Election (see Us007)
+
+
+Us007
+
+As an Admin User, I am able to Assign Candidates to an   Elections by selecting candidates participating
+
+
+
+Acceptance Criteria
+1) View Candidates Assigned to an Election
+2) UnAssign Candidates from an Election
+
+
+Us008
+
+As an Admin User, I am able to Select Polling Units/ Voting Points  for Elections
+
+
+Acceptance Criteria
+1) View Polling Units selected for an Election
+2) UnAssign Polling Units  for an Election
+
+
+
+
